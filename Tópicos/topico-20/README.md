@@ -13,7 +13,7 @@ Ao 'depositar' o arquivo no diretório, checar se as dimensões da imagem do dia
 Faça você mesmo, evite olhar respostas prontas.
 Novamente, convém citar Cora Coralina para esclarecer o objetivo da atividade: "O que vale na vida não é o ponto de partida e sim a caminhada. Caminhando e semeando, no fim terás o que colher".
 A atividade considera o esquema lógico do BD Biblioteca, conforme a figura abaixo.
-
+![image](https://user-images.githubusercontent.com/98368626/188243023-fb68a1da-664c-4c0a-836a-decc8a9aedc6.png)
 
 
 Desenhe um DER para o BD Biblioteca, o qual pode ser mapeado para obter o esquema lógico do BD Biblioteca.
